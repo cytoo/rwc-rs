@@ -1,0 +1,12 @@
+[package]
+name = "rwc-rs"
+version = "0.1.0"
+authors = ["cytoo"]
+edition = "2018"
+license = "MIT"
+description = "a better linux rwc"
+readme = "README.md"
+
+[dependencies]
+structopt = "0.3.21"
+colored = "2"
