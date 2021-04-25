@@ -8,3 +8,7 @@ make sure you have cargo installed and then run <br>
 `cargo install rwc-rs` <br>
 
 to update it run the same command <br>
+
+### tool pic
+
+<img src="rwc-rs.png" alt="rwc-rs">
